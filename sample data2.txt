@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice pack 1","desc":"Garten Banban 4 is a revolutionary gardening application that has taken the world by storm. Developed by a team of experts in the field of gardening, this app provides users with a comprehensive solution for all their gardening needs. Whether you're a seasoned gardener or a beginner, Garten Banban 4 is the perfect tool for anyone looking to improve their gardening skills.","photo":"https://iili.io/HO0x719.jpg"},
+  {"title":"tips mod 2","desc":"A ground-breaking gardening program called Garten Banban 4 has swept the globe. This software offers customers a complete solution for all of their gardening needs and was created by a team of gardening specialists. Garten Banban 4 is the ideal tool for anyone wishing to advance their gardening abilities, regardless of experience level.","photo":"https://iili.io/HO0xAsS.jpg"},
+  {"title":"helper pack 3","desc":"The app offers a range of features that make gardening a lot easier and more enjoyable. One of the most significant features of the app is the ability to create a personalized garden plan. The app will take into account your location, climate, and soil type, and recommend the best plants and flowers to grow in your garden. This feature is particularly helpful for beginners who may not know where to start when it comes to planning a garden.","photo":"https://iili.io/HO0x5q7.jpg"},
+  {"title":"advance mod 4","desc":"A number of features in the app make gardening much simpler and more pleasant. The ability to design a unique garden plan is one of the app's most important features. The software will select the finest plants and flowers for your garden based on your location, climate, and kind of soil. This function is very beneficial for beginners who might not know where to begin when it comes to landscape planning.","photo":"https://iili.io/HO0xYge.jpg"},
+  {"title":"How to use this app 5","desc":"The ability to monitor your garden's development is another helpful feature of Garten Banban 4. You can keep track of pests and illnesses, record watering and fertilization regimens, and monitor the progress of your plants with the app. With the use of this function, you can spot problems as they arise and take action to fix them before they worsen.","photo":"https://iili.io/HO0x0ej.jpg"},
+  {"title":"advice mod 6","desc":"The ability to monitor your garden's development is another helpful feature of Garten Banban 4. You can keep track of pests and illnesses, record watering and fertilization regimens, and monitor the progress of your plants with the app. With the use of this function, you can spot problems as they arise and take action to fix them before they worsen.","photo":"https://iili.io/HO0xcdu.jpg"},
+  {"title":"helper pack 7","desc":"The app also offers a vast database of plant information, including planting and care instructions, ideal soil conditions, and plant-specific tips. This information is invaluable for gardeners who want to learn more about specific plants or need help troubleshooting a problem.","photo":"https://iili.io/HO0xl5b.jpg"},
+  {"title":"tips mod 8","desc":"Also, the app provides access to a sizable collection of plant data, including guidelines for planting and caring for certain plants, ideal soil conditions, and advice. For gardeners who wish to learn more about particular species or need assistance troubleshooting an issue, this material is invaluable.","photo":"https://iili.io/HO0x1mx.jpg"}
 
    ]
  
